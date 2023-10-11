@@ -1,5 +1,13 @@
-### Hi there 👋
+### Bonjour 👋
 
+👨‍💻 Je suis Thomas Bonnefille, étudiant ingénieur en électronique, intelligence artificielle et traitement de l'information à l'ENSEEIHT de Toulouse.
+
+Je suis :
+-   🔋 passioné d'électronique
+-   🐧 des systèmes Linux
+-   🚆 et des trains.
+
+Je travaille ici sur de petits scripts en Python 🐍, des utilitaires de gestion de mon environnement de bureau en C++ 💻 et des algorithmes plus complexe chez [7Robot](https://github.com/7Robot) dans le but de préparer la prochaine [Coupe de France de Robotique](https://www.coupederobotique.fr/levenement/lacoupe/).
 <!--
 **Bandamo/Bandamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
