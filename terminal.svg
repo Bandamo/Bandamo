@@ -1,6 +1,6 @@
-<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+<svg width="600" height="600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <!-- Define the rectangle with rounded corners -->
-  <rect x="20" y="20" width="360" height="160" rx="20" ry="20"
+  <rect x="20" y="20" width="460" height="440" rx="20" ry="20"
         style="fill:black;stroke:lavender;stroke-width:5;" />
 
   <!-- Define the text with different colors -->
@@ -21,12 +21,18 @@
   </text>
 
   <text x="40" y="110" font-family="JetBrains Mono" font-size="20" fill="white">
-    ╰─➤ whoami --verbose
+    ╰─➤ whoami -v
   </text>
 
-  <text x="40" y="140" font-family="JetBrains Mono" font-size="20" fill="white">
-    👨‍💻 Taumille
-
+  <text x="60" y="150" font-family="JetBrains Mono" font-size="20" fill="white">
+    👨‍💻 Thomas Bonnefille
+  <tspan x="40" dy="40" fill="white">Pseudo : Taumille 🕶️</tspan>
+  <tspan x="40" dy="30" fill="white">Work for : <a xlink:href="https://bootlin.com" target="_blank">@Bootlin 🐧</a></tspan>
+  <tspan x="40" dy="30" fill="white">Job : Embedded Linux Engineer ⚙️</tspan>
+  <tspan x="40" dy="60" fill="white">Hobbies : Robotics, Free Software </tspan>
+  <tspan x="160" dy="30" fill="white">and Cycling. </tspan>
+  <tspan x="40" dy="60" fill="white">Contact : <a xlink:href="mailto:thomas@tbonnefille.fr" target="_blank">thomas@tbonnefille.fr ✉️</a></tspan>
   </text>
+    
 </svg>
 
